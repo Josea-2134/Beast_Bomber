@@ -14,7 +14,7 @@
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 """
 import os
-import fade
+import 
 import ctypes
 from sys import platform
 from core.sms_spam.sms import SMSAttack
